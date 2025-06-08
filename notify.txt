@@ -1,4 +1,13 @@
-<><><><><><><><><> aka0kuro Builds <><><><><><><><><><>
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>    
+   __    _  _    __      _  _  __  __  ____  _____ 
+  /__\  ( )/ )  /__\    ( )/ )(  )(  )(  _ \(  _  )
+ /(__)\  )  (  /(__)\    )  (  )(__)(  )   / )(_)( 
+(__)(__)(_)\_)(__)(__)  (_)\_)(______)(_)\_)(_____) Builds 
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 
-aka0kuro Repository - https://github.com/aka0kuro/wizard-aka0kuro/
-Downloader Code - 01
+¡Bienvenido a Kodi Wizard by aka0kuro!
+Tu centro multimedia está a punto de transformarse.
+Con esta configuración optimizada, tendrás acceso a lo mejor del entretenimiento de forma rápida, limpia y personalizada.
+
+Gracias por confiar en aka0kuro.
+¡Disfruta la experiencia!
