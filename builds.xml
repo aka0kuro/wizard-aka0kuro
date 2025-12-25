@@ -1,19 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
 <builds>
-<name>[COLOR red]Welcome to aka0kuro's Build Menu[/COLOR]</name>
-<kodi>K21</kodi>
-<url>http://</url>
-<icon>https://cloud.disroot.org/s/aXnHBBZW69Ae4Em</icon>
-<fanart>https://cloud.disroot.org/s/wiEP7cwwdXwTFDt</fanart>
-<description>aka0kuro Builds</description>
+
+<build name = "Aka Kuro wizard Windows minimal">
+<version>1.0</version>
+<url>https://cloud.disroot.org/public.php/dav/files/rYiqiqZFHab6oNt</url>
+<icon>https://raw.githubusercontent.com/Rovart/wizardkodi/main/icon.png</icon>
+<fanart>https://raw.githubusercontent.com/Rovart/wizardkodi/main/fanart.png</fanart>
+<description>Aka Kuro wizard Windows minimal</description>
 </build>
-<build>
-<name>AKA0KURO</name>
-<version>0.1</version>
-<kodi>K21</kodi>
-<size>995MB</size>
-<url>https://cloud.disroot.org/s/pkj7AgWrJtrHXSb/download/build.zip</url>
-<icon>https://cloud.disroot.org/s/aXnHBBZW69Ae4Em</icon>
-<fanart>https://cloud.disroot.org/s/wiEP7cwwdXwTFDt</fanart>
-<description>Contruccion Kodi por AKA0KURO  - Creado 07-06-2025</description>
-</build>
+
+
 </builds>
