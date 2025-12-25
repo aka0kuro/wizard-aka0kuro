@@ -5,8 +5,8 @@
 <build name = "Aka Kuro wizard Windows minimal">
 <version>1.0</version>
 <url>https://archive.org/download/build-windows_202512/build%20windows.zip</url>
-<icon>https://raw.githubusercontent.com/Rovart/wizardkodi/main/icon.png</icon>
-<fanart>https://raw.githubusercontent.com/Rovart/wizardkodi/main/fanart.png</fanart>
+<icon>https://github.com/aka0kuro/wizard-aka0kuro/blob/5348d6f37dcca145294f5cc5e525a20fb06357f0/icon.png</icon>
+<fanart>https://github.com/aka0kuro/wizard-aka0kuro/blob/5348d6f37dcca145294f5cc5e525a20fb06357f0/fanart.png</fanart>
 <description>Aka Kuro wizard Windows minimal</description>
 </build>
 
