@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<builds>
-     <build>
-          <name>[COLOR fffe9900]---- Windows-KODI 21.2 Builds ----[/COLOR]</name>    
-          <kodi>K21</kodi>    
-          <url>http://</url>    
-          <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>     
-          <fanart>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</fanart>
-          <description>Windows wizard</description>   
-     </build>     
-          
+<builds>       
      <build>    
-           <name>FEN light-sub.RO(skin Arctic Fuse 2-KODI 22)</name>     
+           <name>FEN light-sub.RO(skin confluence zeigh-KODI 21)</name>     
            <version>1.0</version>    
            <kodi>K22</kodi>     
            <size>220MB</size> 
