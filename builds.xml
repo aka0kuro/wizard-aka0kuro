@@ -2,7 +2,7 @@
 <builds>       
      <build>    
            <name>FEN light-sub.RO(skin confluence zeigh-KODI 21)</name>     
-           <version>1.0</version>    
+           <version>2.0</version>    
            <kodi>K21</kodi>     
            <size>220MB</size> 
            <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.Arctic.Fuse.2-KODI.22.v.1.zip</url>
