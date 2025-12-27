@@ -2,7 +2,7 @@
 <builds>       
      <build>    
            <name>WINDOWS(skin confluence zeitgeist-mod -KODI 21)</name>     
-           <version>2.0</version>    
+           <version>3.0</version>    
            <kodi>K21</kodi>     
            <size>334MB</size> 
            <url>https://archive.org/download/build-windows_202512/build%20windows.zip</url>
