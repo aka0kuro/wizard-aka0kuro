@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <builds>       
      <build>    
-           <name>FEN light-sub.RO(skin confluence zeigh-KODI 21)</name>     
-           <version>2.0</version>    
+           <name>WINDOWS(skin confluence zeitgeist-mod -KODI 21)</name>     
+           <version>1.0</version>    
            <kodi>K21</kodi>     
-           <size>220MB</size> 
-           <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.Arctic.Fuse.2-KODI.22.v.1.zip</url>
+           <size>319.3MB</size> 
+           <url>https://archive.org/download/build-windows_202512/build%20windows.zip</url>
            <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250523_114244_Kodi.jpg</icon>     
            <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250523_114244_Kodi.jpg</fanart>   
-           <description>Work with Debrid subscription only</description>  
+           <description>Kodi Wizard Build Windows sin alldrbrid</description>  
      </build>   
 </builds>
 
