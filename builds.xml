@@ -1,13 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <builds>
-
-  <build>
-       <name>[COLOR fffe9900]---- Debrid-KODI 22 Builds ----[/COLOR]</name>    
-       <kodi>K22</kodi>    
-       <url>http://</url>    
-       <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>     
-       <fanart>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</fanart>
-       <description>luc_kodi.backups</description>   
-  </build>     
-
+    <build>
+         <name>[COLOR fffe9900]---- Debrid-KODI 22 Builds ----[/COLOR]</name>    
+         <kodi>K22</kodi>    
+         <url>http://</url>    
+         <icon>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</icon>     
+         <fanart>https://apoyotech.github.io/luc_kodi.wizard/pictures/Imagen-1.jpg</fanart>
+         <description>luc_kodi.backups</description>   
+    </build>     
+         
+    <build>    
+          <name>FEN light-sub.RO(skin Arctic Fuse 2-KODI 22)</name>     
+          <version>1.0</version>    
+          <kodi>K22</kodi>     
+          <size>220MB</size> 
+          <url>https://github.com/apoyotech/luc_kodi.backups/releases/download/v.1.0.0/FEN.light-sub.RO.skin.Arctic.Fuse.2-KODI.22.v.1.zip</url>
+          <icon>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250523_114244_Kodi.jpg</icon>     
+          <fanart>https://apoyotech.github.io/luc_kodi.backups/pictures/Screenshot_20250523_114244_Kodi.jpg</fanart>   
+          <description>Work with Debrid subscription only</description>  
+    </build>   
 </builds>
