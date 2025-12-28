@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <builds>       
      <build>    
-           <name>WINDOWS(skin confluence zeitgeist-mod -KODI 21)</name>     
-           <version>3.0</version>    
+           <name>WINDOWS sin debrid(skin confluence zeitgeist-mod -KODI 21)</name>     
+           <version>4.0</version>    
            <kodi>K21</kodi>     
-           <size>334MB</size> 
-           <url>https://archive.org/download/build-windows_202512/build%20windows.zip</url>
+           <size>347MB</size> 
+           <url>https://archive.org/download/kodi-windows-sin-debrid/Kodi%20Windows%20sin%20debrid.zip</url>
            <icon>https://github.com/aka0kuro/wizard-aka0kuro/blob/main/windows.png</icon>     
            <fanart>https://github.com/aka0kuro/wizard-aka0kuro/blob/main/windows.png</fanart>   
-           <description>Kodi Wizard Build Windows sin alldrbrid</description>  
+           <description>Kodi Wizard Build Windows sin debrid</description>  
      </build>   
 </builds>
 
