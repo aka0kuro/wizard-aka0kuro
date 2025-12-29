@@ -15,7 +15,7 @@
            <version>1.0</version>    
            <kodi>K21</kodi>     
            <size>447MB</size> 
-           <urlhttps://archive.org/download/kodi-build-windows-con-debrid/Kodi%20build%20windows%20con%20debrid.zip></url>
+           <url>https://archive.org/download/kodi-build-windows-con-debrid/Kodi%20build%20windows%20con%20debrid.zip</url>
            <icon>https://github.com/aka0kuro/wizard-aka0kuro/blob/main/windows.png</icon>     
            <fanart>https://github.com/aka0kuro/wizard-aka0kuro/blob/main/windows.png</fanart>   
            <description>Kodi Wizard Build Windows con debrid</description>  
